@@ -151,7 +151,7 @@ char *reunionMafia(int nivel)
 }
 
 // Ejercicio 7
-char *ondaDigital(char seniales[]) // falta poner los | entre cada _ y ¯
+char *ondaDigital(char seniales[])
 {
     int len = strlen(seniales);
     if (len < 1)
